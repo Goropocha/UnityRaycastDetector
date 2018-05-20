@@ -10,6 +10,8 @@ So you can create cpu-friendly invisible Button.
 1. Attach this script component to Button component instead of Image component.<br>
 Now, You can create completely cpu-friendly invisible Button :)
 
+If you want how it workds, please see sample project. (It created Unity version 2017.4.3f1)
+
 ## Author
 [Goropocha](https://github.com/Goropocha)
 
